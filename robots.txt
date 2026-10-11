@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://duncanbentley.github.io/b2-ready-uk/sitemap.xml
